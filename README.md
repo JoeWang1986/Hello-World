@@ -1,4 +1,3 @@
 # Hello-World
 Hi Humans!
-
-Wahaha!
+I AM JOE
